@@ -18,7 +18,7 @@ namespace wacok_mom
 
 
                 cmd.ExecuteNonQuery();
-                System.Console.WriteLine("Dashboard variable values inserted successfully");
+                System.Console.WriteLine("Dashboard variable are values inserted successfully");
                
                 connection.Close();
 
